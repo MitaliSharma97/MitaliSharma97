@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **"I am developing an e-commerce website that allows users to shop for clothes tailored to their body type, skin tone, and personal preferences." **
+- 🔭 I’m currently working on ** an e-commerce website that allows users to shop for clothes tailored to their body type, skin tone, and personal preferences. **
 
 - 👨‍💻 All of my projects are available at [https://mitalisharma.netlify.app/](https://mitalisharma.netlify.app/)
 
